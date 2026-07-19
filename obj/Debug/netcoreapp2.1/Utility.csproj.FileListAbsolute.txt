@@ -1,0 +1,9 @@
+C:\Users\windo\OneDrive\VS Projects\UDP\Utility\bin\Debug\netcoreapp2.1\Utility.deps.json
+C:\Users\windo\OneDrive\VS Projects\UDP\Utility\bin\Debug\netcoreapp2.1\Utility.dll
+C:\Users\windo\OneDrive\VS Projects\UDP\Utility\bin\Debug\netcoreapp2.1\Utility.pdb
+C:\Users\windo\OneDrive\VS Projects\UDP\Utility\obj\Debug\netcoreapp2.1\Utility.csproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\VS Projects\UDP\Utility\obj\Debug\netcoreapp2.1\Utility.AssemblyInfoInputs.cache
+C:\Users\windo\OneDrive\VS Projects\UDP\Utility\obj\Debug\netcoreapp2.1\Utility.AssemblyInfo.cs
+C:\Users\windo\OneDrive\VS Projects\UDP\Utility\obj\Debug\netcoreapp2.1\Utility.dll
+C:\Users\windo\OneDrive\VS Projects\UDP\Utility\obj\Debug\netcoreapp2.1\Utility.pdb
+C:\Users\windo\OneDrive\VS Projects\UDP\Utility\obj\Debug\netcoreapp2.1\Utility.csprojAssemblyReference.cache

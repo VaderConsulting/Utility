@@ -1,0 +1,18 @@
+C:\Users\windo\OneDrive\Documents\VS Projects\Utility\bin\Debug\netstandard2.0\Utility.Core.deps.json
+C:\Users\windo\OneDrive\Documents\VS Projects\Utility\bin\Debug\netstandard2.0\Utility.Core.dll
+C:\Users\windo\OneDrive\Documents\VS Projects\Utility\bin\Debug\netstandard2.0\Utility.Core.pdb
+C:\Users\windo\OneDrive\Documents\VS Projects\Utility\obj\Debug\netstandard2.0\Utility.Core.AssemblyInfoInputs.cache
+C:\Users\windo\OneDrive\Documents\VS Projects\Utility\obj\Debug\netstandard2.0\Utility.Core.AssemblyInfo.cs
+C:\Users\windo\OneDrive\Documents\VS Projects\Utility\obj\Debug\netstandard2.0\Utility.Core.csproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\Documents\VS Projects\Utility\obj\Debug\netstandard2.0\Utility.Core.dll
+C:\Users\windo\OneDrive\Documents\VS Projects\Utility\obj\Debug\netstandard2.0\Utility.Core.pdb
+C:\Users\windo\OneDrive\Documents\Development\Utility\bin\Debug\netstandard2.0\Utility.Core.deps.json
+C:\Users\windo\OneDrive\Documents\Development\Utility\bin\Debug\netstandard2.0\Utility.Core.dll
+C:\Users\windo\OneDrive\Documents\Development\Utility\bin\Debug\netstandard2.0\Utility.Core.pdb
+C:\Users\windo\OneDrive\Documents\Development\Utility\obj\Debug\netstandard2.0\Utility.Core.csproj.AssemblyReference.cache
+C:\Users\windo\OneDrive\Documents\Development\Utility\obj\Debug\netstandard2.0\Utility.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windo\OneDrive\Documents\Development\Utility\obj\Debug\netstandard2.0\Utility.Core.AssemblyInfoInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\Utility\obj\Debug\netstandard2.0\Utility.Core.AssemblyInfo.cs
+C:\Users\windo\OneDrive\Documents\Development\Utility\obj\Debug\netstandard2.0\Utility.Core.csproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\Utility\obj\Debug\netstandard2.0\Utility.Core.dll
+C:\Users\windo\OneDrive\Documents\Development\Utility\obj\Debug\netstandard2.0\Utility.Core.pdb

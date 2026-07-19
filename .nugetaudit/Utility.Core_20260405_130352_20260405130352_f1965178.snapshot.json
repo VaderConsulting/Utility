@@ -1,0 +1,38 @@
+{
+  "SnapshotId": "20260405130352_f1965178",
+  "CapturedUtc": "2026-04-05T13:03:52.016929+00:00",
+  "NormalisedContentHash": "5AE780DC0B059B1652D3219F7D87876E20217D9F79A8D312810E7FE2CD2C1001",
+  "AnalysisStatus": "Complete",
+  "Solution": {
+    "SolutionName": "Utility.Core",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utility\\Utility.Core.csproj",
+    "SolutionKey": "6DDB76D1ABF48877",
+    "SourceIdentity": {
+      "IdentityKey": "6DDB76D1ABF48877",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utility\\Utility.Core.csproj",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utility",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "5FC1F14329586B03",
+      "ProjectName": "Utility.Core",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\Utility\\Utility.Core.csproj",
+      "ProjectStyle": "Unknown",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": "netstandard2.0",
+      "AssetsFilePath": null,
+      "PackagesLockFilePath": null,
+      "Packages": [],
+      "DependencyEdges": [],
+      "Diagnostics": [],
+      "Warnings": []
+    }
+  ],
+  "Warnings": []
+}
