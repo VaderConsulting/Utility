@@ -1,5 +1,7 @@
 ﻿# Utility
 
+**Source last updated:** 2020-12-20
+
 A lightweight, cross-platform extension methods library for .NET Standard 2.0 and .NET Core. Provides generic serialization helpers, XML file persistence with file-locking, reflection utilities, and type-conversion extensions.
 
 **Initiated:** 2018-12-29 · **Target Frameworks:** .NET Standard 2.0, .NET Core 2.0/2.1/3.1
