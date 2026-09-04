@@ -34,3 +34,8 @@ int len = maybeNullString.LengthOf();  // returns 0 for null
 ## Dependencies
 
 No external NuGet packages. BCL only.
+
+## Requirements
+
+- netcoreapp2.0
+
