@@ -34,7 +34,25 @@ int len = maybeNullString.LengthOf();  // returns 0 for null
 
 No external NuGet packages. BCL only.
 
+## Solution structure
+
+| Project | Language | Type | Purpose |
+|---------|----------|------|---------|
+| `Utility.Core` (`Utility.Core.csproj`) | C# | Class library (netstandard2.0; netcoreapp2.0 target left commented out) | `Extensions.cs` generic, serialization, reflection, and string helpers |
+
+## How to open
+
+Open `Utility.Core.csproj` in Visual Studio 2017 or later and build. There is no `.sln` in this tree.
+
 ## Requirements
 
-- netcoreapp2.0
+- Visual Studio 2017 or later, .NET Standard 2.0 (.NET Core SDK 2.x or later)
+
+## Attribution and provenance
+
+Working copy from my Development folder `Utility`.
+
+## License
+
+MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
 
