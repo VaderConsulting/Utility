@@ -50,6 +50,8 @@ Open `Utility.Core.csproj` in Visual Studio 2017 or later and build. There is no
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 Working copy from my Development folder `Utility`.
 
 ## License
